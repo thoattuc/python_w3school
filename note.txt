@@ -1,0 +1,9 @@
+* Start: config python interpreter:
+    File > Settings
+    Project: <project name> > Python Interpreter
+    Add interpreter
+    Use a system interpreter that is available with your Python installation.
+    Create a virtual environment using Virtualenv, pipenv, Poetry, or conda.
+    Specify the path to the Python executable in your system.
+    Click OK to apply changes and close the dialog box.
+*
